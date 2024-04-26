@@ -1,0 +1,8 @@
+gym==0.26.2
+gymnasium==0.29.1
+gymnasium[accept-rom-license]
+numpy
+pandas
+seaborn
+matplotlib
+loguru
